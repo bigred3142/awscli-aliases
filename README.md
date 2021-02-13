@@ -22,7 +22,7 @@ Note that running the commands below **will** delete any existing alias
 file you may have had:
 
 ```
-$ git clone https://github.com/awslabs/awscli-aliases.git
+$ git clone https://github.com/bigred3142/awscli-aliases.git
 $ mkdir -p ~/.aws/cli
 $ cp awscli-aliases/alias ~/.aws/cli/alias
 ```
